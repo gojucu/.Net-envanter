@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Envanter">
+  <DataContextMoniker Name="/EnvanterDataContext" />
+  <nestedChildShapes>
+    <classShape Id="158ca611-2e1b-4763-bd90-4e9443c9a338" absoluteBounds="0.75, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/EnvanterDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0758882-434c-4967-960e-e86245789eee" absoluteBounds="0.765, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="455f4968-6f35-4280-a4ef-449c9383a7be" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/EnvanterDataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="37cc8588-30de-4e15-9558-eb3e95aaa5d8" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.03929768880208); (3.5 : 2.03929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/EnvanterDataContext/Category/Category_Item" />
+      <nodes>
+        <classShapeMoniker Id="158ca611-2e1b-4763-bd90-4e9443c9a338" />
+        <classShapeMoniker Id="455f4968-6f35-4280-a4ef-449c9383a7be" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

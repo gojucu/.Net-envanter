@@ -1,0 +1,11 @@
+C:\Users\gojuc\source\repos\Envanter\bin\Debug\Envanter.exe.config
+C:\Users\gojuc\source\repos\Envanter\bin\Debug\Envanter.exe
+C:\Users\gojuc\source\repos\Envanter\bin\Debug\Envanter.pdb
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.csproj.AssemblyReference.cache
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.Form1.resources
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.Properties.Resources.resources
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.Technical.resources
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.csproj.GenerateResource.cache
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.csproj.CoreCompileInputs.cache
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.exe
+C:\Users\gojuc\source\repos\Envanter\obj\Debug\Envanter.pdb
